@@ -41,7 +41,7 @@
     "@radix-ui/react-icons": "^1.1.1",
     "@svgr/webpack": "6.5.1",
     "@testing-library/user-event": "14.4.3",
-    "@zenprojects/ndp-design-system": "0.7.1",
+    "@zenprojects/ndp-design-system": "git+https://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:x-oauth-basic@github.com/Zen-Projects/ndp-design-system.git",
     "babel-jest": "29.3.1",
     "dotenv": "16.0.3",
     "graphql": "^16.6.0",
